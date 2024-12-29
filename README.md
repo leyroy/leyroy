@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leyroy)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ley_roy)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ley-roy.vercel.app)  
 
