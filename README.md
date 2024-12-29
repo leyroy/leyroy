@@ -1,8 +1,8 @@
 ## Hi there👋, I'm Ley Roy
 ![](https://komarev.com/ghpvc/?username=leyroy&color=green)
-<!--
-**leyroy/leyroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**leyroy/leyroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
