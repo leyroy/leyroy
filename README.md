@@ -1,7 +1,15 @@
 ## Hi there👋, I'm Ley Roy
 ![](https://komarev.com/ghpvc/?username=leyroy&color=green)
 
-**leyroy/leyroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+After completing junior high school, where I studied **Pure Science**, I decided to pursue my passion for programming.  
+I enrolled in a coding bootcamp and learned **full-stack web development**.   
+
+🔧 **My core stack**:  
+- **Frontend:** React, Next.js  
+- **Backend:** Node.js  
+- **Database:** MongoDB  
+- **Extras:** TypeScript, Prisma, AI prompting  
 <!--
 Here are some ideas to get you started:
 
@@ -48,3 +56,9 @@ Here are some ideas to get you started:
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+## 📫 How to Reach Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)  
+
