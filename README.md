@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leyroy&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=leyroy&theme=radical&hide_border=true&border_radius=5&short_numbers=true&card_width=522&card_height=224)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leyroy&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
