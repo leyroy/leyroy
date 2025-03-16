@@ -6,10 +6,10 @@ After completing junior high school, where I studied **Pure Science**, I decided
 I enrolled in a coding bootcamp and learned **full-stack web development**.   
 
 🔧 **My core stack**:  
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js  
-- **Database:** MongoDB  
-- **Extras:** TypeScript, Prisma, AI prompting  
+- **Frontend:** Javascript(React, Next.js) with TypeScript
+- **Backend:** Node.js,Python( Django and FastAPI)  
+- **Database:** MongoDB, PostgreSQL, MySQL,   
+- **Extras:** Prisma,Drizzle ORM, AI prompting  
 <!--
 Here are some ideas to get you started:
 
