@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=leyroy&color=green)
 
 ## 🚀 About Me  
-After completing junior high school, where I studied **Pure Science**, I decided to pursue my passion for programming.  
+After completing junior high school, where I studied **Pure Science**, 
+I decided to pursue my passion for programming.  
 I enrolled in a coding bootcamp and learned **full-stack web development**.   
 
 🔧 **My core stack**:  
