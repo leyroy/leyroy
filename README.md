@@ -117,6 +117,40 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏆 Achievements & Highlights
+
+- 🏅 **Open Source Contributor:** Regularly contribute to projects that empower the dev community.
+- 🥇 **Project Leadership:** Led and shipped several SaaS products & developer tools.
+- 🤝 **Collaboration:** Advocate for clean code, mentorship, and teamwork.
+- 🧑‍🏫 **Mentorship:** Helped junior developers level up their skills.
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| ------- | ----------- | ----------- | ---- |
+| **AI SaaS Starter** | Boilerplate for launching SaaS products powered by AI. | Next.js, Stripe, OpenAI, Prisma | [Repo](https://github.com/leyroy/ai-saas-starter) |
+| **DevToolbox** | Suite of productivity tools for developers. | React, Node.js, MongoDB | [Repo](https://github.com/leyroy/devtoolbox) |
+| **PromptCraft** | Tools for advanced prompt engineering and LLM integration. | FastAPI, Python, OpenAI API | [Repo](https://github.com/leyroy/promptcraft) |
+
+---
+
+## ✨ Fun Facts
+
+- 🎹 Music lover and amateur pianist.
+- 🏸 Enjoy sports and outdoor adventures.
+- 🧩 Love puzzles, hackathons, and brain teasers.
+
+---
+
+## 📬 Let's Connect!
+
+- 🌐 [Portfolio](https://ley-roy.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/leyroy)
+- 🐦 [Twitter](https://twitter.com/ley_roy)
+- 📧 Email: [Contact Me](mailto:leyroy@example.com)
+
 
 
 ## 📫 How to Reach Me  
