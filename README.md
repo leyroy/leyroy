@@ -107,8 +107,15 @@ Here are some ideas to get you started:
 ## 📈 Github Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leyroy&show_icons=true&theme=radical&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" width=50%"/>
-  <img src="https://streak-stats.demolab.com?user=leyroy&theme=radical&hide_border=true&border_radius=5&short_numbers=true&card_w
+  <img src="https://github-readme-stats.vercel.app/api?username=leyroy&show_icons=true&theme=radical&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" width=48%"/>
+  <img src="https://streak-stats.demolab.com?user=leyroy&theme=radical&hide_border=true&border_radius=5&short_numbers=true&card_width=375" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=leyroy&bg_color=151515&color=fb4362&line=fb4362&point=403d3d&area=true&hide_border=true" width="96%"/>
+</p>
+
+---
 
 
 
