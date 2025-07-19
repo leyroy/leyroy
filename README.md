@@ -158,3 +158,17 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ley_roy)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ley-roy.vercel.app)  
 
+---
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b> – Cory House
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fb4362&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+digital+reality!;Coding+with+passion+and+precision."/>
+</p>
+
+---
+
