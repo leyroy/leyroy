@@ -104,12 +104,13 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leyroy&theme=radical&hide_border=true&border_radius=5&short_numbers=true&card_width=522&card_height=224)](https://git.io/streak-stats)
+## 📈 Github Stats & Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leyroy&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leyroy&show_icons=true&theme=radical&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" width=50%"/>
+  <img src="https://streak-stats.demolab.com?user=leyroy&theme=radical&hide_border=true&border_radius=5&short_numbers=true&card_w
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leyroy)  
