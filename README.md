@@ -23,12 +23,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fb4362&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+digital+reality!;Coding+with+passion+and+precision."/>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 **Academic Background:** Pure Science (Junior High), transitioned into tech via an intensive coding bootcamp.
