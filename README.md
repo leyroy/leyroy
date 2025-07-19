@@ -29,16 +29,17 @@
 
 ---
 
-## 🚀 About Me  
-After completing junior high school, where I studied **Pure Science**, 
-I decided to pursue my passion for programming.  
-I enrolled in a coding bootcamp and learned **full-stack web development**.   
+---
 
-🔧 **My core stack**:  
-- **Frontend:** Javascript(React, Next.js) with TypeScript
-- **Backend:** Node.js,Python( Django and FastAPI)  
-- **Database:** MongoDB, PostgreSQL, MySQL,   
-- **Extras:** Prisma,Drizzle ORM, AI prompting  
+## 🚀 About Me
+
+- 🎓 **Academic Background:** Pure Science (Junior High), transitioned into tech via an intensive coding bootcamp.
+- 🧠 **Learning Philosophy:** I believe software is a superpower for change. I thrive on solving real-world problems and continuously expanding my skills.
+- 🏆 **Experience:** Over 3+ years building robust web apps, APIs, and AI-powered features.
+- 🌍 **Interests:** AI, SaaS, open source, developer tooling, tech education.
+
+---
+ 
 <!--
 Here are some ideas to get you started:
 
