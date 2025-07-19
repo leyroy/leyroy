@@ -14,6 +14,21 @@
   </a>
 </p>
 
+---
+
+<h2 align="center">👋 Hi, I'm Ley Roy</h2>
+<p align="center">
+  <em>Full Stack Developer | AI Enthusiast | Lifelong Learner</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fb4362&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+digital+reality!;Coding+with+passion+and+precision."/>
+</p>
+
+---
+
 ## 🚀 About Me  
 After completing junior high school, where I studied **Pure Science**, 
 I decided to pursue my passion for programming.  
