@@ -1,5 +1,18 @@
-## Hi there👋, I'm Ley Roy
-![](https://komarev.com/ghpvc/?username=leyroy&color=green)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fb4362&height=200&section=header&text=LEY%20ROY%20%F0%9F%94%A5&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <a href="https://ley-roy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/leyroy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ley_roy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ## 🚀 About Me  
 After completing junior high school, where I studied **Pure Science**, 
