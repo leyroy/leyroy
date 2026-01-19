@@ -466,12 +466,4 @@ Kumasi, Ghana 🇬🇭
 
 ### ⭐ **Star my repositories if you find them interesting!** ⭐
 
-NEXT_PUBLIC_BASE_URL=http://164.90.142.68:8087/
-ENCRYPTION_SECRET=d0a6e41b5c8979f47e603f3a7ff1d6b2eaa0b5f6c3a172b089d21d3e447681f5
-
-RABBITMQ_HOST=164.90.142.68:5672
-RABBITMQ_DEFAULT_USER=root
-RABBITMQ_DEFAULT_PASS=MvK6o4yR1CUXarZ
-SOCKET_PORT=3002
-
 </div>
