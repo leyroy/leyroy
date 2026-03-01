@@ -3,6 +3,36 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=SOLOMON%20ATIWEN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20API%20Architect%20%7C%20System%20Designer&descSize=25&descAlignY=55" width="100%"/>
 </p>
 
+save heree
+
+# Application
+NODE_ENV=development
+PORT=3001
+API_VERSION=v1
+
+# Database
+DATABASE_URL="postgresql://neondb_owner:npg_sAEN34ZPLyvf@ep-floral-cherry-aihp3h4z-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
+# JWT
+JWT_SECRET=dev-secret-key-change-this-in-production-32-chars
+JWT_EXPIRES_IN=7d
+JWT_REFRESH_SECRET=dev-refresh-secret-key-change-in-production
+JWT_REFRESH_EXPIRES_IN=30d
+
+# Frontend
+FRONTEND_URL=http://localhost:8080
+
+CLOUDINARY_CLOUD_NAME=dyphofa7p
+CLOUDINARY_API_KEY=372766735976553
+CLOUDINARY_API_SECRET=OnlRwMiAvYe36N7MD_44cZNJOAw
+
+# Email (optional - Resend)
+SMTP_HOST=smtp.resend.com
+SMTP_PORT=465
+SMTP_USER=leyroycontact@gmail.com
+SMTP_PASS=oayhiobkbnlwcoja
+FROM_EMAIL=noreply@yourschool.com
+
 <!-- Animated Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%94%90+Securing+APIs+%26+Data+Pipelines;%F0%9F%8C%8D+3%2B+Years+Real-World+Experience;%F0%9F%92%BC+Currently+%40+UrbanDrop+(UK);%E2%9C%A8+Open+to+Remote+Opportunities!" alt="Typing SVG" />
