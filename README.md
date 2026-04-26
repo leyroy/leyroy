@@ -77,7 +77,7 @@ const solomon = {
     currentProjects: {
         urbanDrop: "Delivery platform APIs",
         pharmaERP: "Procurement workflows",
-        mentorship: "Teaching 50+ developers"
+        mentorship: "Teaching 50+ developers",
         Eduverse-Suite:"All in one SMS and learning platform"
     }
 };
