@@ -288,7 +288,7 @@ timeline
          : Frontend Dev @ Pharmaceutical ERP
          : Building Production Systems
     2026 : Graduating with BSc CS
-         : 3.5 GPA Achievement
+         : 3.6 GPA Achievement
          : Seeking Remote Opportunities
 ```
 
