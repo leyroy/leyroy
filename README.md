@@ -311,7 +311,7 @@ timeline
 🔹 Delivery platform APIs<br/>
 🔹 Payment integration<br/>
 🔹 Order management<br/>
-🔹 Database architecture<br/>
+🔹 Database Architecture<br/>
 🔹 Security implementation
 </p>
 </td>
