@@ -323,7 +323,7 @@ timeline
 <p>2025 - Present</p>
 <hr/>
 <p align="left">
-🔹 Procurement workflows<br/>
+🔹 Procurement Workflows<br/>
 🔹 Approval systems<br/>
 🔹 Vendor management<br/>
 🔹 Compliance features<br/>
