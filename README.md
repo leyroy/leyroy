@@ -342,7 +342,7 @@ timeline
 🔹 50+ students mentored<br/>
 🔹 Project guidance<br/>
 🔹 Code reviews<br/>
-🔹 Career coaching
+🔹 Career Coaching
 </p>
 </td>
 </tr>
