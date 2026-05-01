@@ -86,7 +86,7 @@ const solomon = {
 </td>
 <td width="50%" valign="top">
 
-### 🔥 **What I'm Doing**
+### 🔥**What I'm Doing**
 
 **🛒 UrbanDrop (UK Remote)**
 ```
@@ -97,7 +97,7 @@ const solomon = {
 → Order management system
 ```
 
-**💊 Pharmaceutical ERP**
+** Pharmaceutical ERP**
 ```
 → Procurement module frontend
 → Multi-level approval workflows
