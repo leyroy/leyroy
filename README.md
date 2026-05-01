@@ -26,7 +26,7 @@
 
 <!-- Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Kumasi,_Ghana_🇬🇭-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/_Location-Kumasi,_Ghana_🇬🇭-00D9FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼_Status-Available_For_Hire-00FF88?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_GPA-3.6%2F4.0-FFD700?style=for-the-badge" />
 </p>
