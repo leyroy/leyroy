@@ -333,7 +333,7 @@ timeline
 
 <td width="33%" align="center">
 <img src="https://img.icons8.com/clouds/100/student-center.png"/>
-<h3>👨‍🏫 Mentorship</h3>
+<h3>👨‍🏫 Mentorship/ Youtub tutorial</h3>
 <p><strong>Tech Tutor</strong></p>
 <p>2024 - Present</p>
 <hr/>
