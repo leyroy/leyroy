@@ -327,7 +327,7 @@ timeline
 🔹 Approval systems<br/>
 🔹 Vendor management<br/>
 🔹 Compliance features<br/>
-🔹 Notification system
+🔹 Notification system Design
 </p>
 </td>
 
