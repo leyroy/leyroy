@@ -50,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻**Who I Am**
+### 👨‍💻 **Who I Am**
 
 ```typescript
 const solomon = {
