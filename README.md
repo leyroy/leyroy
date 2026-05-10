@@ -135,7 +135,7 @@ const solomon = {
 
 <div align="center">
 
-### **🎯 Core Technologies**
+### **🎯Core Technologies**
 
 <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postgres,prisma,python,javascript,react,nextjs,dotnet,cs,firebase,tailwind,git&theme=dark&perline=7" />
 
