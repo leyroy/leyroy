@@ -108,7 +108,7 @@ const solomon = {
 
 **👨‍🏫 Tech Mentorship**
 ```
-→ Teaching React & JavaScript
+→ Teaching React, Nodejs & JavaScript
 → Guiding 50+ developers
 → Code reviews & best practices
 → Deployment & DevOps training
