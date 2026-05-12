@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=LEY%20%ROY&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20API%20Architect%20%7C%20System%20Designer&descSize=25&descAlignY=55" width="100%"/>
 </p>
 
