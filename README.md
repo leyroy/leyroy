@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%94%90+Securing+APIs+%26+Data+Pipelines;%F0%9F%8C%8D+3%2B+Years+Real-World+Experience;%F0%9F%92%BC+Currently+%40+UrbanDrop+(UK);%E2%9C%A8+Open+to+Remote+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%94%90+Securing+APIs+%26+Data+Pipelines;%F0%9F%8C%8D+4%2B+Years+Real-World+Experience;%F0%9F%92%BC+Currently+%40+UrbanDrop+(UK);%E2%9C%A8+Open+to+Remote+Opportunities!" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges with Glow Effect -->
