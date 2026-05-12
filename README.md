@@ -198,7 +198,6 @@ const solomon = {
 ✨ Dynamic profit distribution<br/>
 ✨ Secure payment gateway<br/>
 ✨ Comprehensive admin panel<br/>
-  
 ✨ Analytics dashboard
 </p>
 <br/>
