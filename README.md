@@ -57,7 +57,7 @@ const solomon = {
     title: "Backend Engineer",
     company: "UrbanDrop (UK Startup)",
     location: "Kumasi, Ghana 🇬🇭",
-    experience: "4+ years",
+    experience: "5+ years",
     
     education: {
         degree: "BSc Computer Science",
