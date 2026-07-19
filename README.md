@@ -378,7 +378,7 @@ timeline
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/clouds/80/code.png"/>
-<br/><strong>4+</strong>
+<br/><strong>5+</strong>
 <br/>Years Experience
 </td>
 <td align="center" width="20%">
