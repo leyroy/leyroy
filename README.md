@@ -319,7 +319,7 @@ timeline
 <img src="https://img.icons8.com/clouds/100/hospital.png"/>
 <h3>💊 Pharma ERP</h3>
 <p><strong>Frontend Developer</strong></p>
-<p>2025 - Present</p>
+<p>2024 - Present</p>
 <hr/>
 <p align="left">
 🔹 Procurement Workflows<br/>
