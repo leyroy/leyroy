@@ -92,7 +92,7 @@ const solomon = {
 ```
 → Building delivery platform backend
 → PostgreSQL schema architecture  
-→ Secure payment processing
+→ Secure payment processing (Stripe)
 → Role-based access control
 → Order management system
 ```
