@@ -56,7 +56,7 @@
 const solomon = {
     title: "Backend Engineer",
     company: "UrbanDrop (UK Startup)",
-    location: "Kumasi, Ghana 🇬🇭",
+    location: "Kumasi, Ghana",
     experience: "5+ years",
     
     education: {
@@ -92,7 +92,7 @@ const solomon = {
 ```
 → Building delivery platform backend
 → PostgreSQL schema architecture  
-→ Secure payment processing (Stripe)
+→ Secure payment processing (Stripe) 
 → Role-based access control
 → Order management system
 ```
