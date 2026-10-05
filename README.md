@@ -307,7 +307,7 @@ timeline
 <p>2025 - Present</p>
 <hr/>
 <p align="left">
-🔹 Delivery platform APIs<br/>
+🔹 Delivery platform API<br/>
 🔹 Payment integration<br/>
 🔹 Order management<br/>
 🔹 Database Architecture<br/>
