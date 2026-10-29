@@ -61,7 +61,7 @@ const solomon = {
     
     education: {
         degree: "BSc Computer Science",
-        university: "AAMUSTE",
+        university: "USTE",
         gpa: "3.5/4.0",
         status: "Final Year"
     },
