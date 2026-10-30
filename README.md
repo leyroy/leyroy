@@ -63,7 +63,7 @@ const solomon = {
         degree: "BSc Computer Science",
         university: "USTE",
         gpa: "3.5/4.0",
-        status: "Final Year"
+        status: "Completed"
     },
     
     specialties: [
